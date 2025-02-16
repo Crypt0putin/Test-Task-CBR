@@ -1,0 +1,14 @@
+ui\ProductPage.class
+api\PetStoreTests.class
+api\Pet.class
+api\HttpBinTests.class
+ui\NavisaleTest.class
+api\Specifications.class
+ui\ProductDetails.class
+api\Category.class
+config\TestConfig.class
+ui\CatalogPage.class
+ui\CartPage.class
+ui\BaseTest.class
+ui\MainPage.class
+api\Tag.class
