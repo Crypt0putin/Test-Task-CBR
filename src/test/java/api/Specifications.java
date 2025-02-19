@@ -39,7 +39,6 @@ public class Specifications {
     }
 
     public static RequestSpecification requestSpec() {
-        // Настройка спецификации запроса
         return null; // Placeholder return, actual implementation needed
     }
 }
